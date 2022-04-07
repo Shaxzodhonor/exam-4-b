@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.25.3",
+    "express": "^4.17.3",
+    "graphql": "^15.8.0",
+    "mongoose": "^6.2.6",
+    "pg": "^8.7.3"
+  },
+  "name": "graphql-template",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
